@@ -1,7 +1,18 @@
-# “br。  
-## br0 惯用手段：开盒、造谣、诋毁……  
-## 平台置顶不了你们就放 GitHub 上吧。  
-## 全平台欢迎 commit。”
+br。惯用手段：开盒、造谣、诋毁……说我引导对立，如果这句话是假的那下面这些评论是谁发的？？？我之前实习的时候那些谣言又是谁造的？
+
+说我把这些放到github上是挂人，那最开始造谣、公然诋毁辱骂的人有想过我的感受吗？你们之中有任何人给我道过歉吗？
+
+就像你们说的一样，所有commit记录都在，我有病我知道大家可以看还发，现在谁不用GitHub，帖子内容都写的清清楚楚，如果你们愿意可以来继续贡献社区，我把这个项目matainer权限转给你，也把committer下掉❤️lofisu@apache.org
+
+平台置顶不了你们就放 GitHub 上吧，你们永远只会发泄情绪，永远把问题抛给我，要我自证，我不会再自证了，我说了三年无数遍不想再自证了，一直要我解释这个解释那个，我自认为我的信息足够足够非常非常透明了，我一路上的所有轨迹都写的清清楚楚，回答了一个又一个问题还要被你们歪曲理解、开盒、造谣、网暴。
+
+issue也是一堆辱骂，我回复了有人认真看我的回复吗？你们只会一遍一遍咬文嚼字，一直让我自证引导套我信息。
+
+我不认识宣称是我同事或自称认识我的人，如果真的是跟我合作的同事或者跟我很熟的人也不可能发这些，我全都认识，我想不通是谁会做出这种事，我现实跟你们无冤无仇也不知道为什么你们要做这些？
+
+我现实跟你们没有任何交集，不知道为什么你们要说这些，你们扪心自问认识我吗？我是现实跟你有什么冲突吗？如果有我们派出所解决。我回应了一个又有无数个问题无数个谣言要我自证。
+
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/04921792-ea18-4d9a-8005-aa0c01899492" width="620" />
@@ -96,7 +107,27 @@
 </div>
 
 ---
-
+存图，有相关评论证据也欢迎at我补充：
+<img width="1179" height="2556" alt="1c1c1c4feb64eb04bd71df2accad0325" src="https://github.com/user-attachments/assets/225a5a98-267f-4eab-a46f-70b999466cc8" />
+<img width="1179" height="2556" alt="11452f823dd1d8e6df26a7953b8b1d2b" src="https://github.com/user-attachments/assets/8f1a2983-62b7-4eb0-ae81-9f95ec73254a" />
+<img width="1179" height="2556" alt="f177501007749e0f382452aca3e31b6d" src="https://github.com/user-attachments/assets/428a31ab-0079-4c80-999b-baa40fbaeb45" />
+<img width="1179" height="2556" alt="799ddffaf5c59cbe53aa7fd2a8b181e7" src="https://github.com/user-attachments/assets/e4b067bc-42cb-4db4-bbaa-def02068e1a2" />
+<img width="1179" height="2556" alt="55d36c488ede436bcec0e9ff7ce2bdef" src="https://github.com/user-attachments/assets/d80593fc-352e-4500-b8b4-63f5f345e943" />
+<img width="1179" height="2556" alt="5fce7703bd256caf03e63b63d1f0b632" src="https://github.com/user-attachments/assets/514aeb4d-121d-425c-be98-64bd14c86698" />
+<img width="1179" height="2556" alt="aba804ca133f7e5bfac4603dbda9818a" src="https://github.com/user-attachments/assets/4aa82e5d-4376-49ca-abec-8b1a7684493b" />
+<img width="1179" height="2556" alt="440cdc6ce35ecc0c91460810a7f5e0d9" src="https://github.com/user-attachments/assets/f42afee2-a0c6-458c-9b29-c1e936d76142" />
+<img width="1179" height="2556" alt="c3b98b942ebb86e6e4386aba579628c7" src="https://github.com/user-attachments/assets/d7d2c89b-3d6d-476f-965c-0895f1780b85" />
+<img width="1179" height="2556" alt="372579fda881bf609b695343c7ca2872" src="https://github.com/user-attachments/assets/891718c3-429e-487a-9723-d3383796ba29" />
+<img width="1179" height="2556" alt="356ad50d50db8fd122c9ba69b27b2bda" src="https://github.com/user-attachments/assets/cb1c4295-a48b-4733-bf28-e5cc5151bfe8" />
+<img width="1179" height="2556" alt="aff44aec5e44f516f13e6d0eb3aa7293" src="https://github.com/user-attachments/assets/f4652195-cff5-42d7-8272-3925fb819314" />
+<img width="1179" height="2556" alt="762b474e5dfce62b04e6c994c3be66ac" src="https://github.com/user-attachments/assets/06e7f344-0e27-491c-b4d6-8e16f653cd7c" />
+<img width="1179" height="2556" alt="6f94723e7aba7801e6282945d3740b34" src="https://github.com/user-attachments/assets/914a40b4-6f0b-4222-b1f4-19b4712d5989" />
+<img width="1179" height="2556" alt="2888df3890a66784583b9999052478c9" src="https://github.com/user-attachments/assets/cd06ea58-9416-41f4-b5c0-32190f55319b" />
+<img width="1179" height="1053" alt="b00c5abf66b043ce30bfe4f7e7278e2d" src="https://github.com/user-attachments/assets/bb2f9c11-5a4b-4673-8df2-069f99ee6842" />
+<img width="1179" height="2556" alt="9753bed5b6a834867d3c6d56ed62cdd4" src="https://github.com/user-attachments/assets/36add1ee-0fa8-4c89-9250-dcaa0539897b" />
+<img width="1179" height="708" alt="f44368c76e5974306923a5a8985e5fc9" src="https://github.com/user-attachments/assets/b7a8790f-ad30-47d1-8888-75ca325b4dbb" />
+<img width="1179" height="2556" alt="84fad27eeb73255fadc80f2337b73781" src="https://github.com/user-attachments/assets/2a3b7495-72cd-4085-8344-dbe0e634bd41" />
+<img width="1179" height="2556" alt="053eae35eec1e3a856ac4d44fba544a9" src="https://github.com/user-attachments/assets/2662c022-7af6-45b0-9f4f-631dbf144afa" />
 
 
 
